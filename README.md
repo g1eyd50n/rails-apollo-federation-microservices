@@ -1,4 +1,4 @@
-## Rails GraphQL Microservices Apollo Federation Demo
+## Rails GraphQL Microservices with Apollo Federation Demo
 
 This repository is a demo of using Apollo Federation to build a single schema on top of multiple Rails microservices.
 ### Installation
