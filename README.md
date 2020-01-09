@@ -25,7 +25,7 @@ cd federation-demo
 npm run start-services
 ```
 
-This command will run all of the microservices at once. They can be found at http://localhost:4001, http://localhost:4002, http://localhost:4003, and http://localhost:4004.
+This command will run all of the microservices at once. They can be found at http://localhost:4001, http://localhost:4002,and http://localhost:4003.
 
 In another terminal window, run the gateway by running this command:
 
