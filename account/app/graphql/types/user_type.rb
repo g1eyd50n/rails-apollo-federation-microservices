@@ -6,7 +6,7 @@ module Types
     field :username, String, null: true
 
     def self.resolve_reference(object, _context)
-      Users.find_by(id: object[:id])
+      User.find_by(id: object[:id])
     end
   end
 end
