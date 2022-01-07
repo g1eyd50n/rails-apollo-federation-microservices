@@ -85,7 +85,7 @@ GEM
     ffi (1.11.3)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    google-protobuf (3.11.2)
+    google-protobuf (3.19.2)
     graphiql-rails (1.7.0)
       railties
       sprockets-rails
